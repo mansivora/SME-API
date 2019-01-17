@@ -1,0 +1,84 @@
+
+************************** Start Tue Dec 25 2018 09:53:13 GMT+0400 (Arabian Standard Time) **************************
+
+RequestError: Cannot find the symmetric key 'symkeyxdc', because it does not exist or you do not have permission.
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 09:56:57 GMT+0400 (Arabian Standard Time) **************************
+
+RequestError: Customer type not exists
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:27:50 GMT+0400 (Arabian Standard Time) **************************
+
+Error: listen EADDRINUSE :::82
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:29:15 GMT+0400 (Arabian Standard Time) **************************
+
+TypeError: parameter.value.getTime is not a function
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:29:58 GMT+0400 (Arabian Standard Time) **************************
+
+ConnectionError: Database is already connected! Call close before connecting to different database.
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:30:08 GMT+0400 (Arabian Standard Time) **************************
+
+TypeError: parameter.value.getTime is not a function
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:30:26 GMT+0400 (Arabian Standard Time) **************************
+
+TypeError: parameter.value.getTime is not a function
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:33:17 GMT+0400 (Arabian Standard Time) **************************
+
+ConnectionError: Database is already connected! Call close before connecting to different database.
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:34:22 GMT+0400 (Arabian Standard Time) **************************
+
+TypeError: parameter.value.getTime is not a function
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:43:01 GMT+0400 (Arabian Standard Time) **************************
+
+RequestError: Customer reference not exists
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 10:56:02 GMT+0400 (Arabian Standard Time) **************************
+
+RequestError: Customer reference not exists
+
+************************** End **************************
+
+
+************************** Start Tue Dec 25 2018 11:01:00 GMT+0400 (Arabian Standard Time) **************************
+
+RequestError: Validation failed for parameter 'plicexpdate'. Invalid date.
+
+************************** End **************************
+
